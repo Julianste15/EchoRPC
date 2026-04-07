@@ -1,0 +1,26 @@
+# Binaries
+bin/
+vistas
+vistas.exe
+cliente/vistas/vistas
+cliente/vistas/vistas.exe
+servidor/vistas/servidor
+servidor/vistas/servidor.exe
+
+# OS generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Go modules
+# go.sum is usually kept for reproducible builds
+# but if the user wants a clean repo we can ignore it
+# for now I'll just ignore binaries
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
