@@ -1,5 +1,13 @@
 # EchoRPC - Audio Metadata Service
 
+> Servicio de consulta de metadatos de audio con gRPC en Go.
+
+**🇪🇸 Español:** Sistema cliente-servidor en Go vía gRPC para buscar metadatos de pistas de audio (título, duración, tipo, disponibilidad) con Protocol Buffers. Proyecto educativo con arquitectura modular (`servidor`, `modelos`, `servicios`, `cliente`).
+
+**🇺🇸 English:** A Go gRPC client–server system for querying audio-track metadata (title, duration, type, availability) using Protocol Buffers. Educational project with a clean modular layout.
+
+---
+
 **EchoRPC** is a Go-based implementation of a gRPC service designed for managing and querying audio file metadata. This project was developed as part of the **Distributed Systems** course.
 
 ## Project Structure
